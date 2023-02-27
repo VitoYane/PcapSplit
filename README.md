@@ -15,3 +15,9 @@ PcapSplit
 ``` python3 b_get_http.py 待提取的pcap文件目录 ```
 
 会遍历目录下所有pcap文件, 转化成明文txt文件
+
+### 提取明文
+``` python3 c_get_result.py 待判断的pcap文件目录 ```
+
+会遍历目录下所有txt文件, 提交到ChatGPT的接口进行攻击判断
+![image](https://user-images.githubusercontent.com/17432059/221515617-df2ab5d8-d862-489a-b509-81c0e495cf0f.png)
