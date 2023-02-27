@@ -20,4 +20,5 @@ PcapSplit
 ``` python3 c_get_result.py 待判断的pcap文件目录 ```
 
 会遍历目录下所有txt文件, 提交到ChatGPT的接口进行攻击判断
+
 ![image](https://user-images.githubusercontent.com/17432059/221515617-df2ab5d8-d862-489a-b509-81c0e495cf0f.png)
