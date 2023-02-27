@@ -1,0 +1,1 @@
+可能存在攻击行为，Content-Type为application/x-www-form-urlencoded，参数_method=__construct&filter[]=phpinfo&method=get&server[REQUEST_METHOD]=1可能为攻击代码，用于检测服务器的PHP漏洞。

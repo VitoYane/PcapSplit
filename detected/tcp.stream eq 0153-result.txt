@@ -1,0 +1,3 @@
+, deflate
+
+Yes, this request contains an attack behavior, because it is trying to access the etc/passwd file on the server.

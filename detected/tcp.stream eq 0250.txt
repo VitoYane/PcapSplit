@@ -1,0 +1,45 @@
+GET /%09/evil.com/ HTTP/1.1
+Host: 192.168.203.178
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2820.59 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+
+
+ #d9edf7;  
+      border-radius: 12px;
+    }
+    .content dl{
+      color: #2d6a88;
+      line-height: 40px;
+    } 
+    .content div div {
+      padding-bottom: 20px;
+      text-align:center;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+      <div>
+           <h1>403 - Forbidden : </h1>
+        <dl>
+          <dt></dt>
+          <dt>1</dt>
+		  <dd></dd>
+          <dd>IISindex.htmlindex.php</dd>
+          <dt>2</dt>
+		  <dd></dd>
+          <dd>----Users-</dd>
+        </dl>
+        <div>BUG <a href="https://www.xp.cn"  target="_blank">www.xp.cn</a> </div>
+    
+      </div>
+    </div> 
+</body>
+</html>
+
+

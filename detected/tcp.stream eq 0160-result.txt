@@ -1,0 +1,4 @@
+, deflate
+
+
+这个请求存在攻击行为，因为它尝试从wp-admin/admin-ajax.php访问wp-config.php文件，而这是WordPress网站的配置文件，里面包含了数据库的用户名和密码等重要信息，如果被恶意利用，可能会对网站造成严重的安全漏洞。

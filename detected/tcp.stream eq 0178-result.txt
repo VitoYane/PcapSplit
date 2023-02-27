@@ -1,0 +1,3 @@
+, deflate
+
+是的，它存在攻击行为，因为它试图在download.php中访问/etc/passwd文件，以获取系统的登录凭据。

@@ -1,0 +1,991 @@
+GET /pte/index.php?page=etc/passwd HTTP/1.1
+Host: 192.168.203.178
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/4E423F
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+
+
+="nav-user-photo" src="assets/images/avatars/pikachu1.png" alt="Jason's Photo" />
+                        <span class="user-info">
+									<small></small>
+									
+                        </span>
+                    </a>
+
+                </li>
+            </ul>
+        </div>
+    </div><!-- /.navbar-container -->
+</div>
+
+<div class="main-container ace-save-state" id="main-container">
+    <script type="text/javascript">
+        try{ace.settings.loadState('main-container')}catch(e){}
+    </script>
+
+    <div id="sidebar" class="sidebar                  responsive                    ace-save-state">
+        <script type="text/javascript">
+            try{ace.settings.loadState('sidebar')}catch(e){}
+        </script>
+
+        <ul class="nav nav-list">
+            <li class="active open">
+                <a href="index.php">
+                    <i class="ace-icon glyphicon glyphicon-tags"></i>
+                    <span class="menu-text">  </span>
+                </a>
+
+                <b class="arrow"></b>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-lock"></i>
+                    <span class="menu-text">
+								
+							</span>
+
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+
+                <b class="arrow"></b>
+
+  
+
+
+              <ul class="submenu">
+                    <li class="" >
+                        <a href="vul/burteforce/burteforce.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+
+                        <b class="arrow"></b>
+                    </li>
+                    <li class="" >
+                        <a href="vul/burteforce/bf_form.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="">
+                        <a href="vul/burteforce/bf_server.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            (on server)
+                        </a>
+
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="">
+                        <a href="vul/burteforce/bf_client.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            (on client)
+                        </a>
+
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="">
+                        <a href="vul/burteforce/bf_token.php"
+
+
+>
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            token?
+                        </a>
+
+                        <b class="arrow"></b>
+                    </li>
+
+<!--                    <li class="--><!--">-->
+<!--                        <a href="#" class="dropdown-toggle">-->
+<!--                            <i class="menu-icon fa fa-caret-right"></i>-->
+<!---->
+<!--                            test-->
+<!--                            <b class="arrow fa fa-angle-down"></b>-->
+<!--                        </a>-->
+<!---->
+<!--                        <b class="arrow"></b>-->
+<!---->
+<!--                        <ul class="submenu">-->
+<!--                            <li class="--><!--">-->
+<!--                                <a href="top-menu.html">-->
+<!--                                    <i class="menu-icon fa fa-caret-right"></i>-->
+<!--                                    test sun 01-->
+<!--                                </a>-->
+<!---->
+<!--                                <b class="arrow"></b>-->
+<!--                            </li>-->
+<!---->
+<!--                        </ul>-->
+<!--                    </li>-->
+
+
+
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-indent-left"></i>
+                    <span 
+
+
+class="menu-text">
+								Cross-Site Scripting
+							</span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/xss/xss.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xss_reflected_get.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            xss(get)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+
+                    <li class="" >
+                        <a href="vul/xss/xsspost/post_login.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            xss(post)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xss_stored.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            xss
+                        </a>
+                        
+
+
+<b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xss_dom.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            DOMxss
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xss_dom_x.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            DOMxss-x
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xssblind/xss_blind.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            xss
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xss_01.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            xss
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xss_02.php">
+                            <i class="menu-icon fa fa-c
+
+
+aret-right"></i>
+                            xsshtmlspecialchars
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xss_03.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            xsshref
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/xss/xss_04.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            xssjs
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-share"></i>
+                    <span class="menu-text">
+								CSRF
+							</span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/csrf/csrf.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                   
+
+
+     </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/csrf/csrfget/csrf_get_login.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            CSRF(get)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/csrf/csrfpost/csrf_post_login.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            CSRF(post)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/csrf/csrftoken/token_get_login.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            CSRF Token
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon fa fa-fighter-jet"></i>
+                    <span class="menu-text">
+								SQL-Inject
+							</span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow
+
+
+"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_id.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            (post)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_str.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            (get)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_search.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_x.php">
+                            <i class="menu-icon 
+
+
+fa fa-caret-right"></i>
+                            xx
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_iu/sqli_login.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            "insert/update"
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_del.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            "delete"
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_header/sqli_header_login.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            "http header"
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_blind_b.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            (base on boolian)
+                        </a>
+                        <b class="ar
+
+
+row"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_blind_t.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            (base on time)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/sqli/sqli_widebyte.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+            </ul>
+        </li>
+
+
+        <li class="">
+            <a href="#" class="dropdown-toggle">
+                <i class="ace-icon glyphicon glyphicon-pencil"></i>
+                <span class="menu-text">
+                        RCE
+                    </span>
+                <b class="arrow fa fa-angle-down"></b>
+            </a>
+            <b class="arrow"></b>
+            <ul class="submenu">
+
+                <li class="" >
+                    <a href="vul/rce/rce.php">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+
+                <li class="" >
+                    <a href="vul/rce/r
+
+
+ce_ping.php">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        exec "ping"
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+
+                <li class="" >
+                    <a href="vul/rce/rce_eval.php">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        exec "evel"
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+
+            </ul>
+        </li>
+
+        <li class="">
+            <a href="#" class="dropdown-toggle">
+                <i class="ace-icon glyphicon glyphicon-file"></i>
+                <span class="menu-text">
+                    File Inclusion
+                </span>
+                <b class="arrow fa fa-angle-down"></b>
+            </a>
+            <b class="arrow"></b>
+            <ul class="submenu">
+
+                <li class="" >
+                    <a href="vul/fileinclude/fileinclude.php">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+
+                <li class="" >
+                    <a href="vul/fileinclude/fi_local.php">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        File Inclusion(local)
+                    </a>
+          
+
+
+          <b class="arrow"></b>
+                </li>
+
+                <li class="" >
+                    <a href="vul/fileinclude/fi_remote.php"">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        File Inclusion(remote)
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+
+            </ul>
+        </li>
+
+        <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-download"></i>
+                    <span class="menu-text">
+                Unsafe Filedownload
+            </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/unsafedownload/unsafedownload.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/unsafedownload/down_nba.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            Unsafe Filedownload
+                        </a>
+                        <b class="arrow"></b>
+             
+
+
+       </li>
+
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-upload"></i>
+                    <span class="menu-text">
+                Unsafe Fileupload
+            </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/unsafeupload/upload.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/unsafeupload/clientcheck.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            client check
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/unsafeupload/servercheck.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            MIME type
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                 
+
+
+   <li class="" >
+                        <a href="vul/unsafeupload/getimagesize.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            getimagesize
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-text-height"></i>
+                    <span class="menu-text">
+                Over Permission
+            </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/overpermission/op.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/overpermission/op1/op1_login.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+       
+
+
+                 <a href="vul/overpermission/op2/op2_login.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-align-left"></i>
+                    <span class="menu-text">
+                ../../
+            </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/dir/dir.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/dir/dir_list.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" c
+
+
+lass="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-camera"></i>
+                    <span class="menu-text">
+                
+            </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/infoleak/infoleak.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/infoleak/findabc.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            IcanseeyourABC
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-align-left"></i>
+                    <span class="menu-text">
+                        PHP
+                    </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul cl
+
+
+ass="submenu">
+
+                    <li class="" >
+                        <a href="vul/unserilization/unserilization.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/unserilization/unser.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            PHP
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-flag"></i>
+                    <span class="menu-text">
+                XXE
+            </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/xxe/xxe.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+
+
+
+                        <a href="vul/xxe/xxe_1.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            XXE
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon glyphicon glyphicon-repeat"></i>
+                    <span class="menu-text">
+                URL
+            </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/urlredirect/unsafere.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/urlredirect/urlredirect.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            URL
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="">
+           
+
+
+     <a href="#" class="dropdown-toggle">
+                    <i class="ace-icon fa fa-exchange"></i>
+                    <span class="menu-text">
+                SSRF
+                    </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="vul/ssrf/ssrf.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/ssrf/ssrf_curl.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            SSRF(curl)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="" >
+                        <a href="vul/ssrf/ssrf_fgc.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            SSRF(file_get_content)
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+                </ul>
+            </li>
+
+
+
+            <li class="">
+                <a href="#" class="dropdown-toggle">
+                    <i 
+
+
+class="ace-icon glyphicon glyphicon-cog"></i>
+                    <span class="menu-text">
+                
+                    </span>
+                    <b class="arrow fa fa-angle-down"></b>
+                </a>
+                <b class="arrow"></b>
+                <ul class="submenu">
+
+                    <li class="" >
+                        <a href="pkxss/index.php">
+                            <i class="menu-icon fa fa-caret-right"></i>
+                            XSS
+                        </a>
+                        <b class="arrow"></b>
+                    </li>
+
+
+                </ul>
+            </li>
+
+        </ul><!-- /.nav-list -->
+
+        <div class="sidebar-toggle sidebar-collapse" id="sidebar-collapse">
+            <i id="sidebar-toggle-icon" class="ace-icon fa fa-angle-double-left ace-save-state" data-icon1="ace-icon fa fa-angle-double-left" data-icon2="ace-icon fa fa-angle-double-right"></i>
+        </div>
+    </div>
+
+<div class="main-content">
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li class="active"></li>
+            </ul>
+        </div>
+<div class="page-content">
+        <div id="intro_main">
+        <p class="p1">
+            PTEWebweb
+     
+
+
+       WebPTE
+        </p>
+        <p class="p2">
+        <h2 class="v_title">PTE</h2>
+        <ul class="vul_list_info">
+            <li>Burt Force()</li>
+            <li>XSS()</li>
+            <li>CSRF()</li>
+            <li>SQL-Inject(SQL)</li>
+            <li>RCE(/)</li>
+            <li>Files Inclusion()</li>
+            <li>Unsafe file downloads()</li>
+            <li>Unsafe file uploads()</li>
+            <li>Over Permisson()</li>
+            <li>../../../()</li>
+            <li>I can see your ABC()</li>
+            <li>PHP</li>
+            <li>XXE(XML External Entity attack)</li>
+            <li>URL</li>
+            <li>SSRF(Server-Side Request Forgery)</li>
+            <li>More...(?..!)</li>
+            <li>xss,cookie~</li>
+            <li>,,<a href="https://github.com/zhuifengshaonianhanlu">PTE</a></li>
+        </ul>
+        </p>
+
+
+
+
+        <p class="p3">
+            <br/>
+            ,,PTE,""
+        </p>
+        <h2></h2>
+        <p>
+            PTEPHP-_-mysqlPTE"PHP+MYSQL+apache,nginx"
+        ,XAMPP,WAMP,,:<br/>
+        -->PTEweb;<br/>
+        -->inc/config.inc.php;<br/>
+        -->http://x.x.x.x/PTE,",PTE!",
+        </p>
+
+        <p class="p4">
+            PTEQQ<br/>
+
+            PTE
+        </p>
+
+        <h2></h2>
+        <p>
+
+            ","
+
+   
+
+
+     </p>
+
+    </div>
+
+</div><!-- /.page-content -->
+</div>
+</div><!-- /.main-content -->
+
+
+
+
+<div class="footer">
+    <div class="footer-inner">
+        <div class="footer-content">
+						<span class="bigger-120">
+							PTE PTE~~~PTE&copy; Hack
+						</span>
+
+        </div>
+    </div>
+</div>
+
+<a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
+    <i class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i>
+</a>
+</div><!-- /.main-container -->
+
+<!-- basic scripts -->
+
+<!--[if !IE]> -->
+
+<!-- <![endif]-->
+
+<!--[if IE]>
+<script src="assets/js/jquery-1.11.3.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+    if('ontouchstart' in document.documentElement) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+</script>
+
+<!-- page specific plugin scripts -->
+
+<!--[if lte IE 8]>
+<script src="assets/js/excanvas.min.js"></script>
+<![endif]-->
+<script src="assets/js/jquery-ui.custom.min.js"></script>
+<script src="assets/js/jquery.ui.touch-punch.min.js"></script>
+<script src="assets/js/jquery.easypiechart.min.js"></script>
+<script src="assets/js/jquery.sparkline.index.min.js"></script>
+<script src="assets/js/jquery.flot.min.js"></script>
+<script src="assets/js/jquery.flot.pie.min.js"></script>
+<script src="assets/js/jquery.flot.resize.min.js"></script>
+
+<!-- ace scripts -->
+<script src="assets/js/ace-eleme
+
+
+nts.min.js"></script>
+<script src="assets/js/ace.min.js"></script>
+
+<!-- inline scripts related to this page -->
+
+<script>
+    $(function (){
+        $("[data-toggle='popover']").popover();
+    });
+</script>
+
+</body>
+</html>
+
+0
+
+
+
+

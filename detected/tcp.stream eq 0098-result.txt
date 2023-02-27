@@ -1,0 +1,4 @@
+, deflate
+
+
+Yes, 这个请求存在攻击行为，因为它试图从 admin-post.php 中访问 wp-config.php 文件，这可能是为了访问数据库凭据或其他敏感信息。

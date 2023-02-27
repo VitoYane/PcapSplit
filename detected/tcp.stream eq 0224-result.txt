@@ -1,0 +1,3 @@
+, deflate, sdch
+
+是的，这个请求包含了攻击行为，其中的脚本语句“alert(document.domain)”可能用于弹出恶意对话框或者执行其他攻击行为。

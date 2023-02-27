@@ -1,0 +1,4 @@
+,deflate
+Accept-Language: en-US,en;q=0.8
+
+可能存在攻击行为，通过URL路径中的“..”构造，可能是尝试绕过限制访问系统资源的行为。

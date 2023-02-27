@@ -1,0 +1,3 @@
+, deflate
+
+是的，这个请求存在攻击行为，因为它试图从wp-config.php文件中获取WordPress网站的数据库凭据。

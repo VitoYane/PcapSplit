@@ -1,0 +1,1 @@
+可能存在攻击行为，因为请求中存在SQL注入攻击的特征，其中params参数中name值为input_id，value值为USERNAME' AND EXTRACTVALUE(1337,CONCAT(0x5C,0x5A534C,(SELECT (ELT(1337=1337,1))),0x5A534C)) AND 'joxy'='joxy，可能是在尝试利用SQL注入攻击来获取用户名和密码。

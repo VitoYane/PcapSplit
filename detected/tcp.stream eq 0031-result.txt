@@ -1,0 +1,4 @@
+, deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+是的，这个请求存在攻击行为，因为它会尝试使用系统命令从/etc/passwd文件中抓取数据。

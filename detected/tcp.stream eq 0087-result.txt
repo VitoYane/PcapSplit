@@ -1,0 +1,3 @@
+, deflate
+
+是的，这个请求存在攻击行为，因为它包含了一个脚本代码：“<script>alert(document.domain)</script>”，用于弹出一个警告框以显示文档域名。
