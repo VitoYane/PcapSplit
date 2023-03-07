@@ -8,7 +8,7 @@ PcapSplit
 ``` python3 a_split_pcap.py 原始pcap文件 解包目录 ```
 
 可以将大的pcap文件, 使用tshark命令按照会话提取为单个pcap文件.
-因为调用的tshark程序, 速度较慢
+因为使用Python自己的库提取的会话都不太对, 所以调用的tshark程序(运行环境 linux), 速度较慢.
 
 
 ### 提取明文
