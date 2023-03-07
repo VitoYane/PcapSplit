@@ -16,7 +16,7 @@ PcapSplit
 
 会遍历目录下所有pcap文件, 转化成明文txt文件
 
-### 提取明文
+### 提交检测
 ``` python3 c_get_result.py 待判断的pcap文件目录 ```
 
 会遍历目录下所有txt文件, 提交到ChatGPT的接口进行攻击判断
